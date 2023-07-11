@@ -1,0 +1,204 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "elegant",
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  },
+  "basics": {
+    "name": "Michael Pomogajko",
+    "label": "Fullstack Software Developer & Engineer",
+    "image": "https://media.licdn.com/dms/image/C4D03AQFORqiNiqqJFw/profile-displayphoto-shrink_800_800/0/1607596848382?e=1694649600&v=beta&t=WwQy0MIWv73ggRlr8fuxb7982V1uVAZv8uiRfw2Yi8o",
+    "summary": "",
+    "website": "",
+    "email": "info@pomogajko.de",
+    "location": {
+      "city": "Berlin",
+      "countryCode": "DE"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/michaelpomogajko/",
+        "network": "LinkedIn"
+      },
+      {
+        "url": "https://github.com/michaelpomogajko",
+        "username": "michaelpomogajko",
+        "network": "github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "READO UG",
+      "position": "Co-Founder & CTO",
+      "website": "https://reado.app",
+      "summary": "• responsible for the development of the client app and backend IT infrastructure • aligning with co-founders regarding product and business development • managing software development team",
+      "location": "Frankfurt, Hesse, Germany",
+      "startDate": "2019-03-01",
+      "highlights": [
+        "Developed iOS and Android Apps with React Native / Expo",
+        "Leveraged Typescript throughout the fullstack for type safety",
+        "Hosted user data and authentication on firebase",
+        "Leveraged several serverless tools on GCP to scale the backend"
+      ]
+    },
+    {
+      "name": "PwC",
+      "position": "Manager | Software Engineering",
+      "website": "https://pwc.de",
+      "summary": "One of the 4 first employees in a newly formed innovation and development team for PwC Advisory. Developing rapid prototyping projects on topics like AI, NLP, micro services, automation. Management of scrum teams and lead software architecture. Heavily our customers in ideation and prototype phase of new products",
+      "location": "Berlin, Germany",
+      "startDate": "2018-04-01",
+      "highlights": [
+        "Build numerous frontends with NextJS / React / Tailwind",
+        "Provisioned backend infrastructure on GCP Kubernetes",
+        "Managed agile teams using scrum / kanban on jira and asana"
+      ]
+    },
+    {
+      "name": "IOX GmbH",
+      "position": "Lead Software Developer",
+      "website": "https://pwc.de",
+      "summary": "Product owner of and developer in a project for a global pharmaceutical company",
+      "location": "Dusseldorf, Germany",
+      "startDate": "2018-02-01",
+      "endDate": "2018-04-01",
+      "highlights": [
+        "Scrum master and product owner",
+        "Lead an agile offshore development team",
+        "Worked on the backend with NodeJS / Express / MongoDB"
+      ]
+    },
+    {
+      "name": "Autodesk Inc.",
+      "position": "iOS Testautomation Development Intern",
+      "website": "https://autodesk.com",
+      "summary": "Part of QA test-automation teams for in-house native iOS development. Wrote unit tests and refactored application code.",
+      "location": "Tel Aviv, Israel",
+      "startDate": "2017-09-01",
+      "endDate": "2018-01-01",
+      "highlights": [
+        "Wrote unit test with XCTest and KIF",
+        "Refactored application code to be more testable",
+        "Updated and refactored legacy code"
+      ],
+    },
+    {
+      "name": "Telexiom AG",
+      "position": "IT-Security Project Assistant",
+      "website": "https://telexiom.de",
+      "summary": "Researched IoT and Web security for Bachelor Thesis",
+      "location": "Cologne, Germany",
+      "startDate": "2016-10-01",
+      "endDate": "2017-09-01",
+      "highlights": [
+        "Developed a web application for password safety checking",
+        "Implemented ticketing system for the company",
+        "Operated a replica of the Mirai botnet in lab environment",
+        "Gave presentations on web security to clients"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cologne University of Applied Sciences",
+      "area": "Computer Science & Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-09-01",
+      "endDate": "2017-08-01"
+    },
+    {
+      "institution": "California State University, Long Beach",
+      "area": "Computer Science & Engineering",
+      "studyType": "Study Abroad",
+      "startDate": "2015-08-01",
+      "endDate": "2016-01-01"
+    },
+    {
+      "institution": "Europaschule Hittorf Gymnasium",
+      "area": "High School",
+      "studyType": "Abitur",
+      "startDate": "2015-08-01",
+      "endDate": "2016-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "level": "Senior",
+      "name": "Frontend",
+      "keywords": [
+        "HTML / JSX",
+        "CSS / SCSS / Styled Components / Tailwind",
+        "Javascript / Typescript",
+        "React / Next",
+        "Mobile / React Native / Expo"
+      ]
+    },
+    {
+      "level": "Senior",
+      "name": "Backend",
+      "keywords": [
+        "Node / Express",
+        "Postgres",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Devops",
+      "level": "Senior",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "GCP",
+        "Serverless",
+        "CI / CD"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Google Cloud Certified Professional Cloud Application Developer",
+      "issuer": "Coursera Course Certificates",
+      "startDate": "2019-12-31",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/MH89DUBQXZX7"
+    },
+    {
+      "name": "Professional Scrum Product Owner",
+      "issuer": "Scrum.org",
+      "startDate": "2018-11-30",
+      "url": "https://www.scrum.org/user/422593"
+    },
+    {
+      "name": "Professional Scrum Master",
+      "issuer": "Scrum.org",
+      "startDate": "2018-11-30",
+      "url": "https://www.scrum.org/user/422593"
+    },
+    {
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "issuer": "Cisco",
+      "endDate": "2016-09-30",
+      "startDate": "2015-09-30"
+    },
+    {
+      "name": "TOEFL",
+      "issuer": "ETS Global B.V.",
+      "startDate": "2015-03-31"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Traveling"
+    },
+    {
+      "name": "Design & Architecture"
+    }
+  ]
+}
