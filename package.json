@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "render": "resumed render",
+    "validate": "resumed validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelpomogajko/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelpomogajko/resume/issues"
+  },
+  "homepage": "https://github.com/michaelpomogajko/resume#readme",
+  "description": "",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-even": "^0.18.1",
+    "resume-cli": "^3.0.8"
+  }
+}

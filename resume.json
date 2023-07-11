@@ -8,7 +8,7 @@
   "basics": {
     "name": "Michael Pomogajko",
     "label": "Fullstack Software Developer & Engineer",
-    "image": "https://media.licdn.com/dms/image/C4D03AQFORqiNiqqJFw/profile-displayphoto-shrink_800_800/0/1607596848382?e=1694649600&v=beta&t=WwQy0MIWv73ggRlr8fuxb7982V1uVAZv8uiRfw2Yi8o",
+    "image": "https://storage.googleapis.com/mpomogajko-public/IMG_9690.JPG",
     "summary": "",
     "website": "",
     "email": "info@pomogajko.de",
@@ -82,7 +82,7 @@
         "Wrote unit test with XCTest and KIF",
         "Refactored application code to be more testable",
         "Updated and refactored legacy code"
-      ],
+      ]
     },
     {
       "name": "Telexiom AG",
@@ -154,6 +154,24 @@
         "Serverless",
         "CI / CD"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "native"
+    },
+    {
+      "language": "Russian",
+      "fluency": "native"
+    },
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "basic"
     }
   ],
   "certificates": [
